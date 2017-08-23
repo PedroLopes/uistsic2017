@@ -5,7 +5,9 @@ Welcome to the UIST Student Innovation Contest 2017, which features the desktop-
 
 1. Once you receive your braccio, the first task is to get it assembled. Here's your [easiest starting point](assemble-instructions/Braccio_Quick_Start_Guide.pdf) (.pdf, step by step instructions.) 
 2. The next step is connecting your braccio's servo shield to your arduino UNO (it is possible to use other arduinos or even other micro controllers but for simplicity the shields retrofit nicely in the UNO without any mods). 
-3. Get ready to start your code examples! Get acquainted with the Arduino Braccio library. 
+3. Get ready to start your code examples! Get acquainted with the [Arduino Braccio library](https://github.com/arduino-libraries/Braccio.git) (which we also copied to our Github just so you can have access to one in the same place). 
+
+
 
 
 ## Programming languages, environments & dialects
