@@ -18,10 +18,11 @@ Arduino's can interface with virtually anything as long as a serial port is ther
 2. Interfacing with [Python has many options](http://playground.arduino.cc/Interfacing/Python) (from the simplest ``import serial`` to the more elaborate pyFirmata, etc)
 3. Does your project use VR? Than you are likely needing to interface some game engine (e.g., Unity3D) with your arduino. The simplest solution is serial messages. Here's a [tutorial for unity3d](http://www.alanzucconi.com/2015/10/07/how-to-integrate-arduino-with-unity/). 
 4. Processing has a great [integration with Arduino](http://playground.arduino.cc/Interfacing/Processing) (via simple serial or firmata too)
-
+5. [PlatformIO](http://platformio.org/lib/show/1252/Braccio) has a simple install for the braccio ``pio lib install "Braccio"`` 
 
 ## More tips
 Another alternative video to assemble the braccio is provided by the folks at [elektor](https://www.youtube.com/watch?v=5VkjJXm6bx8), watch it too. 
+References to [older versions](http://platformio.org/lib/show/1252/Braccio) of the braccio lib if needed.
 
 
 ## Contacts / Chairs
